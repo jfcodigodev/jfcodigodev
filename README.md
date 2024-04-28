@@ -1,8 +1,7 @@
+## Olá, meu nome é João Felipe! 😁
 <p align="left"> 
  <strong>Front-End</strong> Developer.<br>
 </p>
-
-## Olá, meu nome é João Felipe! 😁
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -20,7 +19,7 @@
  
 <br>
  
-### Contatos
+### Contato através das Redes Sociais:
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
