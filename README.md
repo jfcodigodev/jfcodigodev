@@ -1,7 +1,10 @@
 ## Olá, meu nome é João Felipe!
 <p align="left"> 
  Desenvolvedor  <strong>Front-End</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  ### Tecnologias
+ -HTML
+ -CSS
+ -JAVA
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
@@ -11,7 +14,7 @@
 
 <table>
   <tr>
-    <td>
+     <td>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
