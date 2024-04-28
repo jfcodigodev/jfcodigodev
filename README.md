@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+## Olá, meu nome é João Felipe!
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
+ Desenvolvedor  <strong>Front-End</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-## Olá, meu nome é {seu nome}!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 ### ⚙️ GitHub Analytics
 
